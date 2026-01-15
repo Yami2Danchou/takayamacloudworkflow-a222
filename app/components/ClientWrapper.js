@@ -7,7 +7,7 @@ import StatsChart from "./StatsChart";
 
 export default function ClientWrapper({ data }) {
   const [query, setQuery] = useState("");
-
+//dd
   const filtered = data.filter((p) => p.name.includes(query));
 
   return (

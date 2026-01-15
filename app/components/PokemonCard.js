@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-
+//dd
 export default function PokemonCard({ pokemon }) {
   const [showStats, setShowStats] = useState(false);
 

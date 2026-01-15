@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-
+//dd
 export default function Navbar() {
   return (
     <nav className="p-4 bg-red-600 text-white flex justify-between">

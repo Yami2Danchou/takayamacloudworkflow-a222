@@ -1,7 +1,7 @@
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto p-6 bg-white rounded-lg shadow">
-      <h1 className="text-3xl font-bold mb-4">About This Project</h1>
+      <h1 className="text-3xl font-bold mb-4">About This Projects</h1>
 
       <p className="mb-4">
         This website was created as a performance task for the Web Programming course. Its main goal
